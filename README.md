@@ -1,6 +1,6 @@
-### Halo, saya [Nama Anda] 👋
+### Halo, saya Firdaus👋
 
-Saya seorang mekanik yang sangat bersemangat tentang **Sains**, **Teknologi**, **Rekayasa**, dan **Matematika (STEM)**. Saat ini, saya bekerja di sebuah bengkel di Surabaya, dan saya percaya bahwa prinsip-prinsip sains dan matematika yang saya terapkan setiap hari bisa dibagikan dan dipelajari dengan cara yang menyenangkan.
+Saya seorang mekanik yang sangat bersemangat tentang **Sains**, **Teknologi**, **Rekayasa**, dan **Matematika (STEM)**. Saat ini, saya bekerja di salah satu bengkel di Surabaya, dan saya percaya bahwa prinsip-prinsip sains dan matematika yang saya terapkan setiap hari bisa dibagikan dan dipelajari dengan cara yang menyenangkan.
 
 ---
 
@@ -47,7 +47,7 @@ Meskipun bekerja, saya sangat menikmati saat-saat di mana saya bisa menghubungka
 ![](https://github-profile-trophy.vercel.app/?username=arrizkyfirdaus&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
-*"The important thing is not stop about questioning. Curiosity has its own reason of existing."
+*"The important thing is not stop about questioning. Curiosity has its own reason of existing."*
 
 -Albert Einstein
 
