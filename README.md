@@ -1,5 +1,36 @@
-# 💫 About Me:
-I'm currently working at a repair shop here in Surabaya and I'm really interested in collaborating on science and math lessons for beginners. Feel free to ask me anything—I'm a huge fan of all things STEM!"<br>
+### Halo, saya [Nama Anda] 👋
+
+Saya seorang mekanik yang sangat bersemangat tentang **Sains**, **Teknologi**, **Rekayasa**, dan **Matematika (STEM)**. Saat ini, saya bekerja di sebuah bengkel di Surabaya, dan saya percaya bahwa prinsip-prinsip sains dan matematika yang saya terapkan setiap hari bisa dibagikan dan dipelajari dengan cara yang menyenangkan.
+
+---
+
+#### 🔭 Apa yang sedang saya kerjakan
+
+Saya sedang mencari kesempatan untuk **berkolaborasi dalam proyek edukasi STEM untuk pemula**. Saya ingin menciptakan materi pembelajaran yang mudah dipahami dan relevan, baik untuk anak-anak maupun orang dewasa yang baru memulai.
+
+---
+
+#### 🌱 Yang ingin saya pelajari lebih lanjut
+
+* Pemrograman Python untuk data science
+* Pengembangan Web Front-end dan Back-end
+* Aplikasi matematika dalam mekanika dan fisika
+
+---
+
+#### 💬 Mari berinteraksi!
+
+Jika Anda memiliki ide proyek, ingin berkolaborasi, atau sekadar ingin berdiskusi tentang STEM, jangan ragu untuk menghubungi saya!
+
+* **Email**: arrizkyfirdaus2308@gmail.com
+* **Lokasi**: Surabaya, Indonesia
+
+---
+
+#### 😄 Fakta menarik tentang saya
+
+Meskipun bekerja, saya sangat menikmati saat-saat di mana saya bisa menghubungkan teori fisika dan matematika di balik setiap komponen yang saya temui. Ilmu itu ada di mana-mana!
+
 
 
 ## 🌐 Socials:
@@ -15,8 +46,10 @@ I'm currently working at a repair shop here in Surabaya and I'm really intereste
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arrizkyfirdaus&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Quote
+*"The important thing is not stop about questioning. Curiosity has its own reason of existing."
+
+-Albert Einstein
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arrizkyfirdaus&limit=5&theme=dark&combine_all_yearly_contributions=true)
